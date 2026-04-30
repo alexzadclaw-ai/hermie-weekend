@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305 260" role="img" aria-labelledby="title desc">
+  <title id="title">Hermie Weekend ticket logo</title>
+  <desc id="desc">A yellow vintage ticket reading Weekend Admit Local with a blue punch circle.</desc>
+  <path d="M26 76c31 0 31-48 0-48h253c-31 0-31 48 0 48v108c-31 0-31 48 0 48H26c31 0 31-48 0-48z" fill="#ffd84d" stroke="#07111f" stroke-width="12"/>
+  <path d="M68 64h169M68 196h169" stroke="#07111f" stroke-width="9" stroke-linecap="round"/>
+  <text x="152" y="126" text-anchor="middle" font-family="Georgia, Cambria, serif" font-size="37" font-weight="900" fill="#07111f">WEEKEND</text>
+  <text x="152" y="159" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#ff4fa3" letter-spacing="1.2">ADMIT LOCAL</text>
+  <circle cx="253" cy="130" r="18" fill="#62d7ff" stroke="#07111f" stroke-width="6"/>
+</svg>
