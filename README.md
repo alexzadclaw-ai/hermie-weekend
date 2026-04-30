@@ -2,8 +2,9 @@
 
 Standalone source repo for the Hermie Weekend landing page, QR flyer, and launch copy.
 
-- Live Cloudflare Pages: https://hermie-weekend.pages.dev/
-- Desired custom domain: https://hermieweekend.fun/
+- Live site: https://www.hermieweekend.fun/
+- Cloudflare Pages fallback: https://hermie-weekend.pages.dev/
+- Custom domain: https://www.hermieweekend.fun/
 - Telegram channel: https://t.me/hermieweekend
 - Event submission form: https://tally.so/r/b5209g
 
@@ -17,7 +18,7 @@ Standalone source repo for the Hermie Weekend landing page, QR flyer, and launch
 5. Telegram channel is set to: https://t.me/hermieweekend
 6. Publish the site on GitHub Pages or Cloudflare Pages.
 
-Published URL: https://alexzadclaw-ai.github.io/conversion-prospect-report/hermie-weekend/
+Published URL: https://www.hermieweekend.fun/
 7. Generate a QR code pointing to the landing page.
 8. Replace the QR placeholder in `flyers/qr-flyer.html` before printing.
 
@@ -61,5 +62,5 @@ Day 6–7:
 - 500 subscribers: consider $50–$100/month local ads or paid placements.
 
 
-Custom domain target: https://hermieweekend.fun/
+Custom domain target: https://www.hermieweekend.fun/
 Cloudflare Pages fallback: https://hermie-weekend.pages.dev/
