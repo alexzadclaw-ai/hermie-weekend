@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Hermie Weekend QR Flyer</title>
+<style>
+  @page { size: letter; margin: .35in; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#f6efdf; color:#202015; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .sheet { width: 8in; min-height: 10.3in; margin:auto; display:grid; grid-template-columns: 1fr 1fr; gap:.22in; padding:.1in; }
+  .card { background:#fffdf7; border:2px solid #23483b; border-radius:24px; padding:.24in; display:flex; flex-direction:column; justify-content:space-between; min-height:3.2in; break-inside:avoid; }
+  .brand { font-weight:900; letter-spacing:-.04em; color:#23483b; font-size:22pt; }
+  h1 { margin:.08in 0; font-family: Georgia, serif; font-size:26pt; line-height:.95; letter-spacing:-.05em; }
+  p { margin:.06in 0; color:#5f5948; font-size:11.5pt; line-height:1.35; }
+  ul { margin:.08in 0 .12in; padding-left:.18in; color:#373326; font-size:11pt; }
+  .qr { width:1.45in; height:1.45in; border:2px solid #c46843; border-radius:14px; display:grid; place-items:center; background:#fff7e7; padding:.08in; }
+  .qr img { width:100%; height:100%; display:block; }
+  .bottom { display:flex; align-items:end; justify-content:space-between; gap:.15in; }
+  .url { font-size:10pt; font-weight:800; color:#23483b; word-break:break-word; }
+  .small { font-size:8.5pt; color:#7a735f; }
+  @media print { body { background:white; } .sheet { padding:0; } }
+</style>
+</head>
+<body>
+  <div class="sheet">
+    <script>
+      for (let i=0;i<6;i++) document.write(`
+        <section class="card">
+          <div>
+            <div class="brand">Hermie Weekend</div>
+            <h1>Never waste a weekend near Naperville again.</h1>
+            <p>Get a free Friday list of actually good local plans:</p>
+            <ul>
+              <li>date nights</li>
+              <li>kid-friendly ideas</li>
+              <li>cheap/free picks</li>
+              <li>rainy-day backups</li>
+              <li>hidden gems</li>
+            </ul>
+          </div>
+          <div class="bottom">
+            <div>
+              <div class="url">https://hermieweekend.fun/</div>
+              <div class="small">No spam. One useful post per week.</div>
+            </div>
+            <div class="qr"><img src="../assets/hermie-weekend-qr.svg" alt="QR code for Hermie Weekend" /></div>
+          </div>
+        </section>`)
+    </script>
+  </div>
+</body>
+</html>

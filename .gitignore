@@ -1,0 +1,16 @@
+# OS/editor junk
+.DS_Store
+*.swp
+
+# Local env/secrets
+.env
+.env.*
+!.env.example
+
+# Dependency/build caches
+node_modules/
+.wrangler/
+.cache/
+
+# Logs
+*.log
