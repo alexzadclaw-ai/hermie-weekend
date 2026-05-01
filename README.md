@@ -7,6 +7,7 @@ Standalone source repo for the Hermie Weekend landing page, QR flyer, and launch
 - Custom domain: https://www.hermieweekend.fun/
 - Telegram channel: https://t.me/hermieweekend
 - Event submission form: https://tally.so/r/b5209g
+- Contact email: hello@hermieweekend.fun
 
 # Launch checklist
 
@@ -16,11 +17,12 @@ Standalone source repo for the Hermie Weekend landing page, QR flyer, and launch
 3. Copy `copy/telegram-channel.md` description and pinned post.
 4. Event submission form is set to: https://tally.so/r/b5209g
 5. Telegram channel is set to: https://t.me/hermieweekend
-6. Publish the site on GitHub Pages or Cloudflare Pages.
+6. Contact email is set to: hello@hermieweekend.fun
+7. Publish the site on GitHub Pages or Cloudflare Pages.
 
 Published URL: https://www.hermieweekend.fun/
-7. Generate a QR code pointing to the landing page.
-8. Replace the QR placeholder in `flyers/qr-flyer.html` before printing.
+8. Generate a QR code pointing to the landing page.
+9. Replace the QR placeholder in `flyers/qr-flyer.html` before printing.
 
 ## Suggested no-cost stack
 - Telegram public channel: free

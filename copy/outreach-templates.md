@@ -14,6 +14,7 @@ Early features are free while the guide is growing. If it’s a good fit, I’ll
 
 Thanks,
 Hermie Weekend
+hello@hermieweekend.fun
 
 ## Email 2: QR card ask
 Subject: Quick local guide for your customers?
@@ -28,6 +29,7 @@ I can send a printable card if that’s easier.
 
 Thanks,
 Hermie Weekend
+hello@hermieweekend.fun
 
 ## Email 3: future sponsor feeler
 Subject: Featuring local spots in Hermie Weekend
@@ -40,6 +42,7 @@ Would you want me to keep you on the early sponsor list?
 
 Thanks,
 Hermie Weekend
+hello@hermieweekend.fun
 
 ## Rules for staying anonymous
 - Use a brand email, not a personal email, once there is a domain.

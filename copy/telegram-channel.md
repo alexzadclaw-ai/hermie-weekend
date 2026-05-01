@@ -29,6 +29,9 @@ No spam. No influencer feed. No endless event dump. Just useful plans you can fo
 If you host a local event or know a good hidden gem, submit it here:
 https://tally.so/r/b5209g
 
+Questions, corrections, or local partnerships:
+hello@hermieweekend.fun
+
 Invite link:
 https://t.me/hermieweekend
 
